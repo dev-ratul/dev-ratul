@@ -92,7 +92,7 @@
 <p align="center" style="margin-top: 10px; display: flex; justify-content: center; gap: 15px; align-items: center;">
   <!-- Total Commits (Custom) -->
   <img
-    src="https://img.shields.io/badge/Total_Commits-194-00ffe1?style=for-the-badge&logo=github"
+    src="https://img.shields.io/badge/Total_Commits-333-00ffe1?style=for-the-badge&logo=github"
     alt="Total Commits"
   />
   <!-- Contributions -->
