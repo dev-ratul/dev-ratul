@@ -50,7 +50,7 @@
   <a href="https://github.com/ratulhasan](https://www.linkedin.com/in/devmhratul/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/ratulhasan" target="_blank">
+  <a href="https://www.linkedin.com/in/devmhratul" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="[[https://twitter.com/ratul_dev](https://wa.me/8801784773949?text=Hello%2C%20I%20would%20like%20to%20contact%20you.
