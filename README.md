@@ -89,19 +89,19 @@
 
 ## 📈 GitHub Stats & Activity
 
-<p align="center" style="margin-top: 10px;">
+<p align="center" style="margin-top: 10px; display: flex; justify-content: center; gap: 15px; align-items: center;">
   <!-- Total Commits (Custom) -->
   <img
-    src="https://img.shields.io/badge/Total_Commits-302-00ffe1?style=for-the-badge&logo=github"
+    src="https://img.shields.io/badge/Total_Commits-194-00ffe1?style=for-the-badge&logo=github"
     alt="Total Commits"
   />
-  &nbsp;&nbsp;
   <!-- Contributions -->
   <img
     src="https://img.shields.io/badge/Contributions-25-00ffe1?style=for-the-badge&logo=github"
     alt="Contributions"
   />
 </p>
+
 
 <p align="center" style="margin-top: 10px;">
   <!-- Most Used Languages -->
