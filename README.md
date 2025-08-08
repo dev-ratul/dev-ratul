@@ -89,15 +89,6 @@
 
 ## 📈 GitHub Stats & Activity
 
-<p align="center" style="display:flex; justify-content:center; gap: 20px; flex-wrap: wrap;">
-  <!-- GitHub Stats Card -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=dev-ratul&show_icons=true&count_private=true&hide_border=true&title_color=00ffe1&icon_color=00ffe1&text_color=c9d1d9&bg_color=0d1117&custom_title=dev-ratul%20GitHub%20Stats&line_height=27"
-    width="320"
-    alt="GitHub Stats"
-  />
-</p>
-
 <p align="center" style="margin-top: 10px;">
   <!-- Total Commits (Custom) -->
   <img
