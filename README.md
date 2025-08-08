@@ -24,12 +24,11 @@
 - 📚 Learning **Backend Development**
 
 ---
-
 <!-- Skills Section -->
 ### 🚀 My Tech Stack:
 #### 🖥️ Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 </p>
 
 #### 🛠️ Backend
@@ -39,8 +38,9 @@
 
 #### ⚙️ Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,firebase,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,firebase,figma" />
 </p>
+
 
 ---
 
@@ -63,21 +63,17 @@
 
 ---
 
-<!-- GitHub Stats Section -->
-### 📊 GitHub Stats:
+## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ratulhasan&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ratulhasan&theme=tokyonight" width="47%" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ratulhasan&show_icons=true&hide=prs&count_private=true&hide_border=true&title_color=00ffe1&icon_color=00ffe1&text_color=c9d1d9&bg_color=0d1117" width="47%" alt="GitHub Stats" />
+
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ratulhasan&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFE1&fire=00FFE1&currStreakLabel=00FFE1" width="47%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratulhasan&layout=compact&theme=tokyonight" width="47%" />
-</p>
-
----
-
-<!-- Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Frontend+Developer;MERN+Stack+Learner;React+%7C+Node+%7C+MongoDB;Let's+Build+Something+Awesome!" />
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ratulhasan&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00ffe1&text_color=c9d1d9" width="47%" alt="Top Languages" />
 </p>
