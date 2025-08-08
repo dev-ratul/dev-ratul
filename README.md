@@ -77,3 +77,8 @@
   <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ratulhasan&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00ffe1&text_color=c9d1d9" width="47%" alt="Top Languages" />
 </p>
+
+<!-- Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Frontend+Developer;MERN+Stack+Learner;React+%7C+Node+%7C+MongoDB;Let's+Build+Something+Awesome!" />
+</p>
