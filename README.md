@@ -92,23 +92,36 @@
 <p align="center" style="display:flex; justify-content:center; gap: 20px; flex-wrap: wrap;">
   <!-- GitHub Stats Card -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ratulhasan&show_icons=true&hide=prs&count_private=true&hide_border=true&title_color=00ffe1&icon_color=00ffe1&text_color=c9d1d9&bg_color=0d1117"
+    src="https://github-readme-stats.vercel.app/api?username=dev-ratul&show_icons=true&count_private=true&hide_border=true&title_color=00ffe1&icon_color=00ffe1&text_color=c9d1d9&bg_color=0d1117&custom_title=dev-ratul%20GitHub%20Stats&line_height=27"
     width="320"
     alt="GitHub Stats"
   />
+</p>
 
-  
- 
+<p align="center" style="margin-top: 10px;">
+  <!-- Total Commits (Custom) -->
+  <img
+    src="https://img.shields.io/badge/Total_Commits-302-00ffe1?style=for-the-badge&logo=github"
+    alt="Total Commits"
+  />
+  &nbsp;&nbsp;
+  <!-- Contributions -->
+  <img
+    src="https://img.shields.io/badge/Contributions-25-00ffe1?style=for-the-badge&logo=github"
+    alt="Contributions"
+  />
 </p>
 
 <p align="center" style="margin-top: 10px;">
   <!-- Most Used Languages -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ratulhasan&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00ffe1&text_color=c9d1d9"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-ratul&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00ffe1&text_color=c9d1d9"
     width="320"
     alt="Top Languages"
   />
 </p>
+
+
 
 ---
 
